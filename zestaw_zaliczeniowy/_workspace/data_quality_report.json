@@ -1,0 +1,40 @@
+{
+  "timestamp": "2026-06-27T11:39:49.642599",
+  "report": {
+    "no_nulls": {
+      "passed": true,
+      "severity": "error",
+      "details": null
+    },
+    "labels_in_set": {
+      "passed": true,
+      "severity": "error",
+      "details": null
+    },
+    "min_word_count": {
+      "passed": true,
+      "severity": "warning",
+      "details": null
+    },
+    "max_word_count": {
+      "passed": true,
+      "severity": "warning",
+      "details": null
+    },
+    "no_duplicates": {
+      "passed": true,
+      "severity": "error",
+      "details": null
+    },
+    "class_balance": {
+      "passed": true,
+      "severity": "warning",
+      "details": null
+    },
+    "no_html_tags": {
+      "passed": false,
+      "severity": "warning",
+      "details": null
+    }
+  }
+}
